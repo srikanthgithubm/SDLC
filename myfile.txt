@@ -1,1 +1,9 @@
 file moving from clinet to github
+
+Developer create and devlope some program as per the requirement
+
+tester will test application buy using automated tools such as  selinium
+
+devops engineers he can deploy the application using devops tools
+
+maintanance will be happen
